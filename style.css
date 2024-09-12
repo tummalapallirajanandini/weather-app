@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/pink-blue-background-with-soft-soap-balls_107791-28102.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 66vh;
+}
+
+.content {
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
